@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Hamzah Alddamas. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "I am Hamzah Aldaamas 🙋🏻‍♂️,I am 22 years old. I studied cyber security at Al-Balqa Applied University. I am learning with LTUC to be Full Stack Developer. I love learning programming and developing myself.Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -42,7 +42,7 @@
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/hamzahhisham306",
         "technologies": [
           {
             "class": "devicon-react-original",
