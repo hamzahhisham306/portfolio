@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Hamzah Aldaamas",
-      "titles": [ "Software Developer" ],
+      "titles": [ "JavaScript Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/hamzahhisham306",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/hamzahisham796/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myPortfolio.JPG"
     },
     "skills": {
       "icons": [
