@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Cześć",
-      "description": "👋 Jestem Hamzah Aldaamas. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description": "👋 Jestem Hamzah Aldaamas. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak React, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
       "section_name": {
         "about": "O mnie",
         "projects": "Projekty",
@@ -21,8 +21,8 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
@@ -57,7 +57,7 @@
       {
         "title": "3D Object Viewer",
         "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku React. Dużo się nauczyłam!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -65,8 +65,8 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
@@ -85,7 +85,7 @@
         "title": "Front-End Developer",
         "years": "10.2019 - obecnie",
         "mainTech": [
-          "Angular 8/9/10"
+          "React 8/9/10"
         ],
         "technologies": [
           "REST API",
@@ -94,7 +94,7 @@
           "Bootstrap",
           "MDBootstrap",
           "EF Core",
-          "Angular Material"
+          "React Material"
         ]
       },
       {
@@ -102,7 +102,7 @@
         "title": "Stażystka",
         "years": "01.2018 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "React 7/8"
         ],
         "technologies": [
           "REST API",
